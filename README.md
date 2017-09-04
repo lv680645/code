@@ -19,3 +19,11 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+---
+
+使用的技术栈: 
+> vue.js + vue-router + vuex + es6 + webpack + axios
+
+因为本人水平有限,代码还有很多待优化之处.  
+如有错误或不足,欢迎指正. :kissing_heart:
